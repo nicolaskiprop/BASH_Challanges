@@ -1,0 +1,3 @@
+Create a Script that accepts 2 arguments (Directory and Outputfile), it should be able to
+count all the content in Directory entred as the first argument and save the result in the Outputfile
+entred as the second output.

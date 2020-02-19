@@ -1,0 +1,4 @@
+Create a Script that prints System's details such as Hostname, Machine-type,
+kernel version, Harddisk size, Memory size etc
+a) Use printf to tabulate the results
+b) Color and use text style on the output
